@@ -1,3 +1,5 @@
 # React
-Hi í±‹í¿» react journey has begun
+Hi ğŸ‘‹ğŸ‘‹ there:
+react journey has begun
 
+This will include some projects built from skill acquired so far; i wil update this later
