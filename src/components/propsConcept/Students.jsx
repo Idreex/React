@@ -10,7 +10,14 @@ function StudentList(props) {
 }
 
 function StudentList2() {
-  const list = ["Bola", "Idrees", "Tolani", "Abdullah"];
+  // const list = ["Bola", "Idrees", "Tolani", "Abdullah"];
+  
+  const list =[
+     {id: 1, name: 'Demola', country: 'Nigeria'},
+     {id: 2, name: 'Sola', country: 'Ghana'},
+     {id: 3, name: 'Tola', country: 'Benin'}
+  ]
+
 
   return (
     <div>
